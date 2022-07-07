@@ -1,7 +1,7 @@
 # Kodluyoruz Ilk Repo
 BuKodluyoruz Ilk RepoFront-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![resim](https://www.hizliresim.com/5d8ok1f)
+![](https://imgyukle.com/i/VmDJz6)
 # Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 -git clone https://github.com/eliffisik/kodluyoruzilkrepo.git
